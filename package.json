@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.3",
+    "ipfs-http-client": "^60.0.0"
+  }
+}

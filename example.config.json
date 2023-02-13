@@ -1,0 +1,6 @@
+{
+  "RPC_URL": "https://mainnet.optimism.io",
+  "IPFS_API_URL": "http://127.0.0.1:5001",
+  "MAX_CONTENT_SIZE": 10000000,
+  "LAST_QUERIED_BLOCK": 0
+}
